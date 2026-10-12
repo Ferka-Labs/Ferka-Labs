@@ -1,65 +1,160 @@
+
 <div align="center">
-<pre>
-███████╗███████╗██████╗ ██╗  ██╗ █████╗     ██╗      █████╗ ██████╗ ███████╗
-██╔════╝██╔════╝██╔══██╗██║ ██╔╝██╔══██╗    ██║     ██╔══██╗██╔══██╗██╔════╝
-█████╗  █████╗  ██████╔╝█████╔╝ ███████║    ██║     ███████║██████╔╝███████╗
-██╔══╝  ██╔══╝  ██╔══██╗██╔═██╗ ██╔══██║    ██║     ██╔══██║██╔══██╗╚════██║
-██║     ███████╗██║  ██║██║  ██╗██║  ██║    ███████╗██║  ██║██████╔╝███████║
-╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-</pre>
+
+  <p><code>SOFTWARE · DESIGN · ENGINEERING</code></p>
+
+  # FERKA LABS
+
+  **Independent software studio.**
+
+  We build digital products, developer tools, and connected systems.
+  From an initial idea to production-ready software.
+
+  <sub>Web · Mobile · Automation · Robotics · Embedded Systems</sub>
+
+  <br />
+  <br />
+
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#what-we-build">What We Build</a> &nbsp;·&nbsp;
+  <a href="#technology">Technology</a> &nbsp;·&nbsp;
+  <a href="#our-approach">Our Approach</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
+
 </div>
 
-<p align="center">
-  <b>Independent software studio.</b><br />
-  Remote-first, working with people anywhere in the world.
-</p>
-
-<p align="center">
-  <a href="#about">About</a> ·
-  <a href="#what-we-build">What We Build</a> ·
-  <a href="#focus--interests">Focus & Interests</a> ·
-  <a href="#design-philosophy">Design Philosophy</a> ·
-  <a href="#stack">Stack</a> ·
-  <a href="#contact">Contact</a>
-</p>
+<br />
 
 ---
 
 ## About
 
-Ferka Labs is an independent software studio building web platforms, applications, and custom systems — end to end, from concept to deployment.
+**Ferka Labs** is an independent, remote-first software studio focused on building practical, reliable, and thoughtfully designed technology.
 
-We operate fully remote, working with clients and projects anywhere in the world, always shaping the software to fit the exact need in front of us rather than forcing a generic template on it. The goal behind every project is the same: build something built to last, not just to ship.
+We develop web platforms, mobile applications, business tools, and custom systems — handling everything from architecture and interface design to development and deployment.
+
+Our work combines software engineering, creative thinking, and an interest in technologies that connect the digital and physical worlds.
+
+Based in Ecuador. Working without borders.
 
 ## What We Build
 
-- **Web platforms** — corporate sites, digital catalogs, and admin dashboards.
-- **Applications** — web and Android products, designed and maintained in-house.
-- **Custom systems** — inventory, sales tracking, and internal business tools.
-- **Automation** — workflow and messaging integrations (WhatsApp, APIs, webhooks).
+**01 / Web Platforms & Tools**
 
-Every product ships under the Ferka Labs name, built with the same care whether it's client work or one of our own ventures.
+Web applications, digital platforms, developer utilities, dashboards, and products designed around real-world needs.
 
-## Focus & Interests
+**02 / Mobile Applications**
 
-Beyond client work, Ferka Labs is driven by a longer-term interest in **self-sustaining systems** — software and machines that keep learning and adapting on their own — which pulls us naturally toward **autonomous learning algorithms and applied AI**, and toward **robotics** as a physical extension of that same idea.
+Mobile experiences for Android and cross-platform environments, with attention to usability, performance, and intuitive interfaces.
 
-## Design Philosophy
+**03 / Business Systems**
 
-We lean into design that stands apart from the usual: **brutalism**, **neo-brutalism**, bold color, and deliberate typography play. At the same time, every product is built to be **minimalist and simple to use** — the goal is always software that genuinely makes people's lives easier, never complexity for its own sake.
+Custom solutions for inventory, sales, digital catalogs, administrative operations, and internal workflows.
 
-## Stack
+**04 / Automation & Integrations**
 
-`TypeScript` · `Next.js` · `Kotlin` · `Dart` · `Go` · `Python` · `Docker`
+API integrations, webhooks, messaging workflows, and automated systems that reduce repetitive work.
 
-## Contact
+**05 / Robotics & Embedded Systems**
 
-<p align="left">
-  <a href="https://www.tiktok.com/@ferkalabs"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.instagram.com/ferka.labs/"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:info@ferkalabs.lat"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+Exploration and development involving microcontrollers, connected devices, robotics, and software-hardware communication.
+
+---
+
+## Technology
+
+A selection of languages, frameworks, platforms, and technologies within our development ecosystem.
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,go,kotlin,dart&amp;theme=dark" alt="TypeScript, JavaScript, Python, C++, Go, Kotlin, Dart" />
+</p>
+
+`TypeScript` · `JavaScript` · `Python` · `C++` · `Go` · `Kotlin` · `Dart`
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,html,css,tailwind,vite&amp;theme=dark" alt="Next.js, React, Node.js, HTML, CSS, Tailwind CSS, Vite" />
+</p>
+
+`Next.js` · `React` · `Node.js` · `HTML` · `CSS` · `Tailwind CSS` · `Vite`
+
+### Mobile & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,kotlin,dart&amp;theme=dark" alt="Android, Apple iOS, Flutter, Kotlin, Dart" />
+</p>
+
+`Android` · `iOS` · `Flutter` · `Kotlin` · `Dart`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&amp;theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB" />
+</p>
+
+`PostgreSQL` · `MySQL` · `SQLite` · `MongoDB`
+
+### Infrastructure & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,git,github,nginx&amp;theme=dark" alt="Docker, Linux, Cloudflare, Git, GitHub, Nginx" />
+</p>
+
+`Docker` · `Linux` · `Cloudflare` · `Git` · `GitHub` · `Nginx`
+
+### Hardware & Embedded
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,py&amp;theme=dark" alt="Arduino, C++, Python" />
+</p>
+
+`Microcontrollers` · `Embedded Programming` · `Hardware Integration`
+
+---
+
+## Our Approach
+
+We believe good software should be powerful without being complicated.
+
+Our design philosophy combines minimalism, expressive typography, bold visual identities, and influences from brutalism and neo-brutalism.
+
+Behind the interface, we prioritize clear architecture, maintainable code, deployment flexibility, and solutions that make sense for the people using them.
+
+**Built with purpose. Designed with character.**
+
+## Exploring What's Next
+
+Beyond conventional software development, we're interested in autonomous systems, applied artificial intelligence, robotics, and technologies capable of learning, adapting, and interacting with their environments.
+
+We see software not just as something that runs on a screen, but as a foundation for building useful, connected systems.
+
+---
+
+## Connect
+
+Ferka Labs operates remotely and works on projects without geographical boundaries.
+
+For project inquiries, collaborations, or simply to get in touch:
+
+<p>
+  <a href="mailto:info@ferkalabs.lat">
+    <img src="https://img.shields.io/badge/Email-171717?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/ferka.labs/">
+    <img src="https://img.shields.io/badge/Instagram-171717?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@ferkalabs">
+    <img src="https://img.shields.io/badge/TikTok-171717?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><sub>© Ferka Labs. All rights reserved.</sub></p>
+<div align="center">
+  <sub>Independent by nature. Thoughtful by design.</sub>
+  <br />
+  <sub>© Ferka Labs</sub>
+</div>
